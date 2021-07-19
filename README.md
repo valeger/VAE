@@ -22,3 +22,4 @@ cd src && python3 main.py --name vlae
 ```
 As far as the output, several plots will be saved in `images` directory (train plot + samples + reconstruction images)
 
+Training stage takes about 3 hours (on GPU NVIDIA GeForce GTX 1080 Ti).
